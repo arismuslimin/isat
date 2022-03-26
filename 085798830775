@@ -1,1 +1,2 @@
-Aaa
+vless://a1007303-4625-45ee-9e79-5afbad9f9063@104.16.66.85:443?path=%2Fserverssh&security=tls&encryption=none&host=sgm1ray.serverssh.net&type=ws&sni=sgm1ray.serverssh.net#25-04
+vless://a1007303-4625-45ee-9e79-5afbad9f9063@104.16.66.85:80?path=%2Fserverssh&security=none&encryption=none&host=sgm1ray.serverssh.net&type=ws&sni=sgm1ray.serverssh.net#25-04
