@@ -1,2 +1,3 @@
 vless://a1007303-4625-45ee-9e79-5afbad9f9063@104.16.66.85:443?path=%2Fserverssh&security=tls&encryption=none&host=sgm1ray.serverssh.net&type=ws&sni=sgm1ray.serverssh.net#25-04
 trojan://c5328fd0-ad15-11ec-b732-217f943883dc@104.16.66.85:443?path=%2Ffastssh&security=tls&host=vpn11.tjvpn.org&type=ws&sni=vpn11.tjvpn.org#SGC+25-04
+trojan://kituvpn-fytfff@104.16.66.85:443?path=%2Ftrojan-go&security=tls&host=vip-biznet2.kitu.xyz&type=ws&sni=vip-biznet2.kitu.xyz#IDB+25-04
