@@ -1,1 +1,3 @@
-trojan://3c1d99c0-db72-11ec-b835-217f943883dc@104.16.65.85:443?path=%2Ffastssh&security=tls&host=vpn11.tjvpn.org&type=ws&sni=vpn11.tjvpn.org#25juni
+trojan://a4e70800-e095-11ec-af66-1239d0255272@104.16.65.85:443?path=%2Fhowdy&security=tls&host=id5-trojan.bonds.id&type=ws&sni=id5-trojan.bonds.id#IDB5+EDU+15GB
+trojan://9f0323d0-e096-11ec-ae3e-1239d0255272@104.16.65.85:443?path=%2Fhowdy&security=tls&host=sg2-trojan.bonds.id&type=ws&sni=sg2-trojan.bonds.id#SGHE2+EDU+15GB
+trojan://23529d50-e097-11ec-8c78-1239d0255272@104.16.65.85:443?path=%2Fhowdy&security=tls&host=sgovh-trojan.bonds.id&type=ws&sni=sgovh-trojan.bonds.id#SGOVH+EDU+15GB
